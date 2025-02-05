@@ -1,0 +1,10 @@
+.button-grp {
+    display: flex
+    ;
+}
+.button-grp {
+    width:200px
+}
+button-grp .btn .btn-secondary .col-6 {
+    height: 40px;
+}
